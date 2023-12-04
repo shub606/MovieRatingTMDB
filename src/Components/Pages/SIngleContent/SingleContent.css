@@ -1,0 +1,15 @@
+.posterCard {
+  border: 1px solid black;
+  border-radius: 6px;
+  width: 220px;
+  height: 300px;
+}
+
+.posterContent {
+  display: flex;
+}
+
+.posterContenttype {
+  display: flex;
+  justify-content: space-around;
+}
